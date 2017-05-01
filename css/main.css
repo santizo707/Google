@@ -186,3 +186,52 @@ a.button:hover {
     letter-spacing: 0.1px;
     font-size: 14px;
 }
+
+@media screen and (max-width:600px) {
+			.search-box input {
+			width: 50%;
+			}
+}
+
+@media screen and (max-width: 540px) {
+			.left-site-links {
+				margin-bottom: -340px;
+			}
+
+
+@media screen and (max-width: 456px) {
+			.left-site-links li a {
+				margin: 1px 5px 0;
+			}
+}
+
+@media screen and (max-width: 460px) {
+			.left-site-links li a {
+				margin: 1px 3px 0;
+			}
+}
+
+@media screen and (max-width: 426px) {
+			.left-site-links li a {
+				margin: 1px 1px 0;
+			}
+}
+
+@media screen and (max-width: 418px) {
+			.top-navigation {
+				margin-right: 5px;
+			}
+}
+
+@media screen and (max-width: 410px ) {
+		.left-site-links {
+			padding-left: 6px;
+		}
+}
+@media screen and (max-width: 402px) {
+	.right-site-links {
+		padding-right: 5px;
+	}
+}
+
+}
